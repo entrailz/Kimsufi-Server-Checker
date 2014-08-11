@@ -1,0 +1,8 @@
+c:\users\tyler\documents\visual studio 2013\Projects\JsonTestParse\JsonTestParse\bin\Debug\JsonTestParse.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\bin\Debug\JsonTestParse.exe
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\bin\Debug\JsonTestParse.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\bin\Debug\Microsoft.Json.xml
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\obj\Debug\JsonTestParse.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\obj\Debug\JsonTestParse.exe
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\obj\Debug\JsonTestParse.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\JsonTestParse\JsonTestParse\bin\Debug\Microsoft.Server.Common.dll
